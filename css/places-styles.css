@@ -1,0 +1,12 @@
+h1{
+  color: purple;
+  line-height: 40px;
+  text-align: center;
+  font-size: 60px;
+  background-color: yellow;
+}
+ul{
+  font-size: 30px;
+  text-align: center;
+  list-style-type: none;
+}
